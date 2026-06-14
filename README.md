@@ -9,9 +9,9 @@ When executed, the deployment agent automatically bootstraps the following stand
 
 ```text
 attendance_tracker_{input}/
-├── attendance_checker.py   # Main Python automation logic & logging engine
+├── attendance_checker.py  
 ├── Helpers/
-│   ├── assets.csv          # Mock student records and metrics repository
-│   └── config.json         # Dynamically modified tracking configuration thresholds
+│   ├── assets.csv          
+│   └── config.json        
 └── reports/
-    └── reports.log         # Automated local output logging ledger
+    └── reports.log        
