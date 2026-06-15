@@ -31,3 +31,6 @@ To prevent cluttering the local development workspace with half-built or corrupt
 [User Presses Ctrl+C] ──> [Trap Intercepts Signal] ──> [Compresses Active State] ──> [Purges Broken Directory]
                                                                   │
                                                                   └──> Generates: attendance_tracker_*.tar.gz
+
+```
+You can watch the project summative video here:   https://drive.google.com/file/d/1F2dGxauK465fLhW71tsIV8lyaJ2--oEd/view?usp=sharing
