@@ -33,4 +33,4 @@ To prevent cluttering the local development workspace with half-built or corrupt
                                                                   └──> Generates: attendance_tracker_*.tar.gz
 
 ```
-You can watch the project summative video here:   https://drive.google.com/file/d/1F2dGxauK465fLhW71tsIV8lyaJ2--oEd/view?usp=sharing
+You can watch the project summative video here:   https://drive.google.com/file/d/1JnmvsY37xt5mk6c5Is6p65fNxpwkQMUX/view?usp=sharing
