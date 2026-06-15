@@ -15,6 +15,7 @@ attendance_tracker_{input}/
 │   └── config.json        
 └── reports/
     └── reports.log
+```
 
 Project Functionality
 Infrastructure as Code (IaC): Generates directory pipelines and dependencies safely in milliseconds.
