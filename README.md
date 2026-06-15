@@ -14,4 +14,10 @@ attendance_tracker_{input}/
 │   ├── assets.csv          
 │   └── config.json        
 └── reports/
-    └── reports.log        
+    └── reports.log
+
+Project Functionality
+Infrastructure as Code (IaC): Generates directory pipelines and dependencies safely in milliseconds.
+- Dynamic Stream Modification:Captures validated numerical values via standard prompts and rewrites baseline configuration profiles on the fly using standard terminal filters.
+- System Verification Check: Evaluates development runtime health by parsing path binaries for explicit language installation requirements (`python3 --version`).
+- Signal Tracking: Employs atomic traps capturing execution interrupts (`SIGINT`).
