@@ -164,8 +164,8 @@ fi
 # --- Step 6: Verify Final Structural Mapping Compliance ---
 echo -e "\n======================================================================="
 echo "[✔] System Deployment Successful! Target project factory is ready."
-echo "======================================================================="
+echo "========================================================================"
 echo "Target Path Location: ./${PARENT_DIR}"
 echo -e "Verified Contents Layout:\n"
 ls -R "$PARENT_DIR"
-echo "======================================================================="
+echo "========================================================================"
