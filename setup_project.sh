@@ -64,6 +64,9 @@ echo -e "\n[✔] Inputs validated successfully! Ready for file generation."
 
 # --- Step 3: Architecture Generation & Structural Bootstrapping ---
 echo -e "\n[*] Initializing infrastructure deployment paths..."
+# TEMPORARY ADDITION FOR VIDEO DEMO: Pause the script for 5 seconds
+echo "[Testing] Script paused for 5 seconds... Press Ctrl+C NOW to test the trap!"
+sleep 5
 mkdir -p "$PARENT_DIR/Helpers"
 mkdir -p "$PARENT_DIR/reports"
 
