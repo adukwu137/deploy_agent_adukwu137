@@ -22,3 +22,12 @@ Infrastructure as Code (IaC): Generates directory pipelines and dependencies saf
 - Dynamic Stream Modification:Captures validated numerical values via standard prompts and rewrites baseline configuration profiles on the fly using standard terminal filters.
 - System Verification Check: Evaluates development runtime health by parsing path binaries for explicit language installation requirements (`python3 --version`).
 - Signal Tracking: Employs atomic traps capturing execution interrupts (`SIGINT`).
+
+Crash Recovery & Workspace Containment (Signal Trap)
+
+To prevent cluttering the local development workspace with half-built or corrupted folders, the bootstrapper implements a proactive process-management listener targeting hardware termination interrupts (`SIGINT`).
+
+```text
+[User Presses Ctrl+C] ──> [Trap Intercepts Signal] ──> [Compresses Active State] ──> [Purges Broken Directory]
+                                                                  │
+                                                                  └──> Generates: attendance_tracker_*.tar.gz
